@@ -1,0 +1,12 @@
+-r requirements.txt
+# gpustat
+pipdeptree
+yapf
+pylint
+pytest
+pysnooper
+ipykernel
+matplotlib
+jupyter
+python-dotenv
+pre-commit
